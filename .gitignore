@@ -306,3 +306,10 @@ __marimo__/
 
 # Data
 data/*.csv
+
+# MacOS
+.DS_Store
+
+# Google Drive Sync
+.tmp.driveupload/
+.tmp.drivedownload/
