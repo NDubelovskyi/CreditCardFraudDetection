@@ -306,6 +306,7 @@ __marimo__/
 
 # Data
 data/*.csv
+data/*.pkl
 
 # MacOS
 .DS_Store
