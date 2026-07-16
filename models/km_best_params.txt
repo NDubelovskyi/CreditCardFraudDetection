@@ -1,0 +1,1 @@
+{'n_clusters': 70, 'batch_size': 5120, 'percentile': 92}
