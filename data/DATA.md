@@ -1,0 +1,2 @@
+# Download the Datasets
+The project uses **IEEE-CIS Fraud Detection Dataset** available on [_Kaggle_](https://www.kaggle.com/competitions/ieee-fraud-detection/overview). Please, download _'train_transaction.csv'_ and _'train_identity.csv'_ before running the Jupyter Notebooks and place both files in this _'data'_ directory. Keep in mind that the downloaded data takes up around _700MB_ of space and the preprocessed .pkl file takes up an additional _1GB_ of space.
